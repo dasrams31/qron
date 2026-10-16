@@ -459,7 +459,7 @@ PAGE_TOP = ("<!DOCTYPE html><html lang='en'><head><meta charset='utf-8'>"
             "<a class='wordmark' href='/'>Qron<span class='dot'>.</span></a>"
             "<span class='tag'>QR for onion</span></div><div class='main'>")
 PAGE_BOT = ("</div><div class='footer'>Qron &mdash; QR codes for .onion addresses<br>"
-            "Generated locally. Nothing uploaded.</div></div></body></html>")
+            "Generated locally. Nothing uploaded.<br><span style='font-size:11px;opacity:.75'>Donate: <code style='font-size:10px'>0x62A098898048c79FF14De07F3BE9310398E5eCF8</code></span></div></div></body></html>")
 
 
 def home_page(err=""):
